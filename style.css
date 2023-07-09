@@ -1,0 +1,38 @@
+.container {
+    margin: 10% auto ;
+    height: 400px;
+    width: 700px;
+    border-radius: 30px;
+}
+.card{
+    float: left;
+    width: 33%;
+    height: 100%;
+    color:white;
+   
+}
+.card p{
+    line-height: 1px;
+}
+.card *{
+    margin-top: 30px;
+    margin-left: 30px;
+   
+}
+.card button{
+ height: 30px;
+ width: 100px;
+ border-radius: 20px;
+ border: 1px solid orange;
+}
+#one{
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 10px 0px 0px 10px;
+}
+#two{
+   background-color:  hsl(184, 100%, 22%)
+}
+#three{
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0px 10px 10px 0px;
+}
